@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Pharmagotchi</string>
-    <string name="title_home">Pharmagotchi</string>
-    <string name="title_dashboard">PharmAI</string>
+    <string name="title_home">PharmAI</string>
+    <string name="title_dashboard">Home</string>
     <string name="title_notifications">Graphs</string>
+    <string name="track_activity">Track Activity</string>
 </resources>
