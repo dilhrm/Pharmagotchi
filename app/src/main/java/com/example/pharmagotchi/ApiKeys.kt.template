@@ -1,0 +1,15 @@
+package com.example.pharmagotchi
+
+/**
+ * API Keys Configuration Template
+ *
+ * Instructions:
+ * 1. Copy this file to ApiKeys.kt (remove .template extension)
+ * 2. Replace "YOUR_API_KEY_HERE" with your actual OpenRouter API key
+ * 3. Get your API key from: https://openrouter.ai/
+ *
+ * Note: ApiKeys.kt is in .gitignore and will NOT be committed to version control
+ */
+object ApiKeys {
+    const val OPENROUTER_API_KEY = "YOUR_API_KEY_HERE"
+}

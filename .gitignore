@@ -13,3 +13,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# API Keys - DO NOT COMMIT
+app/src/main/java/com/example/pharmagotchi/ApiKeys.kt
+
+# Email Credentials
+app/src/main/java/com/example/pharmagotchi/EmailCredentials.kt
