@@ -24,6 +24,9 @@ Technologies:
 ___
 ## Demo
 
+### [Video link](https://photos.app.goo.gl/mJut6hoKhTBse4qr9)
+
+
 ### Start Screen
 
 <img width="220" height="488" src="https://github.com/user-attachments/assets/fa1bf3a7-84fe-433e-b784-8cd96f23e9e1" />
